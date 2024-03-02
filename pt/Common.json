@@ -488,16 +488,16 @@
   "Faction_Rank_MG_Description_10" : "Você pode comprar todos os itens Lendários no Bazar ou diretamente de outros jogadores.",
   "HitEventTag_Parry" : "Desvio",
   "Button_Exit" : "Sair",
-  "Tags_AilmentEffectOnYou" : "Efeito de {0} em Você",
+  "Tags_AilmentEffectOnYou" : "Efeito de {0} em você",
   "Factions_Arctus_Telescope" : "Telescópio Arctus",
   "Factions_Arctus_Telescope_Desc" : "Profecias de Armadura",
-  "Factions_Mesembria_Telescope" : "Telescópio de Mesembria",
+  "Factions_Mesembria_Telescope" : "Telescópio Mesembria",
   "Factions_Mesembria_Telescope_Desc" : "Profecias de Acessório",
   "Factions_Dysis_Telescope" : "Telescópio Dysis",
-  "Factions_Dysis_Telescope_Desc" : "Profecias de Ídolos",
+  "Factions_Dysis_Telescope_Desc" : "Profecias do Ídolo",
   "Factions_Eos_Telescope" : "Telescópio Eos",
   "Factions_Eos_Telescope_Desc" : "Profecias de Armas",
-  "Cache_Opened" : "Aberto {0}",
-  "Factions_CoF_Theme" : "as estrelas guiam nosso destino",
-  "Factions_MG_Theme" : "comércio, lucro, crescer"
+  "Cache_Opened" : "Abriu {0}",
+  "Factions_CoF_Theme" : "estrelas guiam o nosso destino",
+  "Factions_MG_Theme" : "comercialize, lucre, cresça"
 }
