@@ -2242,7 +2242,7 @@
   "RespecPanel_ReasonText_MinimalPoints" : "당신은 <b>{0}</b>에 포인트를 가지고 있습니다, 이는 {2}에 {1} 포인트를 필요로 합니다.\r\n\r\n따라서 적어도 {1} 포인트를 {2} 노드에 투자해야 하며, 이 노드들은 {2}에서 {1} 포인트 미만을 필요로 합니다. 만약 이 노드에서 포인트를 빼면 더 이상 해당 노드에 투자한 포인트가 충분하지 않게 됩니다.",
   "Chat_UnmuteHour" : "{0} 시간 후에",
   "Chat_UnmuteLessThanHour" : "1시간 이내에",
-  "Chat_TOSBlockMessage" : "I apologize if my previous message was not appropriate. Please let me know how I can assist you with your translation needs.",
+  "Chat_TOSBlockMessage" : "귀하의 메시지가 당사의 행동 강령을 준수하지 않는 콘텐츠를 포함하는 것으로 감지되어 채팅으로 전송되지 않았습니다.",
   "Chat_SpamBlockMessage" : "채팅 메시지의 스팸은 허용되지 않습니다.",
   "Region_us-central" : "미국 중부",
   "Region_us-east" : "미국 동부",
