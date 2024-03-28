@@ -381,7 +381,7 @@
   "ErrorCode_KickedForInactivity" : "Zostałeś wyrzucony z powodu braku aktywności",
   "ErrorCode_AutoRegister" : "Zakończone niepowodzeniem automatyczne zarejestrowanie",
   "ErrorCode_QueueMultiplayer" : "[WY-55] Wystąpił błąd podczas łączenia z trybem wieloosobowym. Odwiedź support.lastepoch.com w celu uzyskania pomocy",
-  "ErrorCode_AccountSuspended" : "[LE-45] Twoje konto zostało zawieszone\n{0}. Aby uzyskać więcej informacji, skontaktuj się z support.lastepoch.com",
+  "ErrorCode_AccountSuspended" : "[LE-45] Twoje konto zostało zawieszone<br>{0}. Aby uzyskać więcej informacji, skontaktuj się z support.lastepoch.com",
   "Common_Than" : "Niż",
   "Comparsion_ANY" : "Dowolny",
   "Comparsion_EQUAL" : "Równy",

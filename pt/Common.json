@@ -381,7 +381,7 @@
   "ErrorCode_KickedForInactivity" : "Você foi expulso por inatividade",
   "ErrorCode_AutoRegister" : "Falha ao AutoRegistrar",
   "ErrorCode_QueueMultiplayer" : "[LE-55] Ocorreu um erro ao conectar-se ao modo multijogador. Visite support.lastepoch.com para obter assistência",
-  "ErrorCode_AccountSuspended" : "[SU-45] A sua conta foi suspensa\n{0}. Para mais informações, por favor entre em contato com o suporte em support.lastepoch.com",
+  "ErrorCode_AccountSuspended" : "[SU-45] A sua conta foi suspensa<br>{0}. Para mais informações, por favor entre em contato com o suporte em support.lastepoch.com",
   "Common_Than" : "Do que",
   "Comparsion_ANY" : "Qualquer",
   "Comparsion_EQUAL" : "Igual",
