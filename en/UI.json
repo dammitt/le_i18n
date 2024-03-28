@@ -2679,7 +2679,7 @@
   "Faction_Trade_Target_Busy" : "Target is busy",
   "Faction_Trade_Unable_To_Request" : "Unable to send trade request",
   "Faction_Trade_You_Busy" : "You are busy",
-  "Faction_Trade_Low_Rank" : "You don't have a high enough rank to sell this item",
+  "Faction_Trade_Low_Rank" : "The buyer doesn't have a high enough rank to purchase this item",
   "Faction_Trade_Already_Purchased" : "The item was already purchased",
   "Faction_Trade_Cannot_List_Gifted_Or_Faction" : "You can't list faction items or gifted items",
   "Faction_Trade_Required_Rank" : "Requires rank {0}",
@@ -2941,5 +2941,7 @@
   "Bazaar_MainPanel_EquippedPreview_Weapon" : "Weapon",
   "Bazaar_MainPanel_EquippedPreview_OffHand" : "Off-Hand",
   "Refer_Friend_Disabled _Title" : "Refer a Friend",
-  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled"
+  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled",
+  "ReportType_Localization" : "Localization",
+  "Bazaar_ViewStash" : "View Stash"
 }

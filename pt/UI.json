@@ -2679,7 +2679,7 @@
   "Faction_Trade_Target_Busy" : "O personagem está ocupado",
   "Faction_Trade_Unable_To_Request" : "Não foi possível enviar solicitação de troca",
   "Faction_Trade_You_Busy" : "Você está indisponível",
-  "Faction_Trade_Low_Rank" : "Seu ranque não é alto o suficiente para vender este item",
+  "Faction_Trade_Low_Rank" : "",
   "Faction_Trade_Already_Purchased" : "O item já foi comprado",
   "Faction_Trade_Cannot_List_Gifted_Or_Faction" : "Não é possível anunciar itens de facção ou itens presenteados",
   "Faction_Trade_Required_Rank" : "Requer ranque {0}",
@@ -2941,5 +2941,7 @@
   "Bazaar_MainPanel_EquippedPreview_Weapon" : "Arma",
   "Bazaar_MainPanel_EquippedPreview_OffHand" : "Mão Secundária",
   "Refer_Friend_Disabled _Title" : "Refer a Friend",
-  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled"
+  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled",
+  "ReportType_Localization" : "Localization",
+  "Bazaar_ViewStash" : "View Stash"
 }

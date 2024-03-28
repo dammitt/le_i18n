@@ -2679,7 +2679,7 @@
   "Faction_Trade_Target_Busy" : "La cible est occupée.",
   "Faction_Trade_Unable_To_Request" : "Impossible d'envoyer une demande d'échange",
   "Faction_Trade_You_Busy" : "Vous avez autre chose à faire.",
-  "Faction_Trade_Low_Rank" : "Votre rang ne vous permet pas de vendre cet objet.",
+  "Faction_Trade_Low_Rank" : "",
   "Faction_Trade_Already_Purchased" : "L'objet a déjà été acheté.",
   "Faction_Trade_Cannot_List_Gifted_Or_Faction" : "Il est impossible de mettre en vente des objets de faction ou des cadeaux.",
   "Faction_Trade_Required_Rank" : "Rang requis : {0}",
@@ -2941,5 +2941,7 @@
   "Bazaar_MainPanel_EquippedPreview_Weapon" : "Arme",
   "Bazaar_MainPanel_EquippedPreview_OffHand" : "Main gauche",
   "Refer_Friend_Disabled _Title" : "Refer a Friend",
-  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled"
+  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled",
+  "ReportType_Localization" : "Localization",
+  "Bazaar_ViewStash" : "View Stash"
 }

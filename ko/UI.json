@@ -2679,7 +2679,7 @@
   "Faction_Trade_Target_Busy" : "대상이 바쁘고 있음",
   "Faction_Trade_Unable_To_Request" : "거래 요청을 보낼 수 없음",
   "Faction_Trade_You_Busy" : "바쁘고 있음",
-  "Faction_Trade_Low_Rank" : "해당 아이템을 팔기에 충분한 진영 랭크가 없음",
+  "Faction_Trade_Low_Rank" : "",
   "Faction_Trade_Already_Purchased" : "해당 아이템은 이미 구매했음",
   "Faction_Trade_Cannot_List_Gifted_Or_Faction" : "진영 아이템이나 이미 증정된 아이템을 열거할 수 없음",
   "Faction_Trade_Required_Rank" : "요구한 진영 랭크{0}",
@@ -2941,5 +2941,7 @@
   "Bazaar_MainPanel_EquippedPreview_Weapon" : "무기",
   "Bazaar_MainPanel_EquippedPreview_OffHand" : "보조 무기",
   "Refer_Friend_Disabled _Title" : "Refer a Friend",
-  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled"
+  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled",
+  "ReportType_Localization" : "Localization",
+  "Bazaar_ViewStash" : "View Stash"
 }

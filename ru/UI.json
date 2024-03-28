@@ -2679,7 +2679,7 @@
   "Faction_Trade_Target_Busy" : "Цель занята",
   "Faction_Trade_Unable_To_Request" : "Не удалось отправить запрос на торговлю",
   "Faction_Trade_You_Busy" : "Вы заняты",
-  "Faction_Trade_Low_Rank" : "У вас недостаточно высокий ранг для продажи этого предмета",
+  "Faction_Trade_Low_Rank" : "",
   "Faction_Trade_Already_Purchased" : "Предмет уже куплен",
   "Faction_Trade_Cannot_List_Gifted_Or_Faction" : "Нельзя выставлять на продажу предметы фракции или предметы, полученные в дар",
   "Faction_Trade_Required_Rank" : "Требуется {0} ранг",
@@ -2941,5 +2941,7 @@
   "Bazaar_MainPanel_EquippedPreview_Weapon" : "Оружие",
   "Bazaar_MainPanel_EquippedPreview_OffHand" : "Вторая рука",
   "Refer_Friend_Disabled _Title" : "Refer a Friend",
-  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled"
+  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled",
+  "ReportType_Localization" : "Localization",
+  "Bazaar_ViewStash" : "View Stash"
 }

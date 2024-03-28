@@ -2679,7 +2679,7 @@
   "Faction_Trade_Target_Busy" : "目标繁忙",
   "Faction_Trade_Unable_To_Request" : "不能发送交易请求",
   "Faction_Trade_You_Busy" : "你正在忙",
-  "Faction_Trade_Low_Rank" : "你没有足够高的阵营阶级来出售这个物品",
+  "Faction_Trade_Low_Rank" : "",
   "Faction_Trade_Already_Purchased" : "该物品已购买",
   "Faction_Trade_Cannot_List_Gifted_Or_Faction" : "你不能列出阵营物品或已赠送物品",
   "Faction_Trade_Required_Rank" : "需求阵营阶级{0}",
@@ -2941,5 +2941,7 @@
   "Bazaar_MainPanel_EquippedPreview_Weapon" : "武器",
   "Bazaar_MainPanel_EquippedPreview_OffHand" : "副手",
   "Refer_Friend_Disabled _Title" : "Refer a Friend",
-  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled"
+  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled",
+  "ReportType_Localization" : "Localization",
+  "Bazaar_ViewStash" : "View Stash"
 }

@@ -2679,7 +2679,7 @@
   "Faction_Trade_Target_Busy" : "Cel jest zajęty",
   "Faction_Trade_Unable_To_Request" : "Nie można wysłać prośby o handel",
   "Faction_Trade_You_Busy" : "Masz teraz inne zajęcia",
-  "Faction_Trade_Low_Rank" : "Masz za niską rangę, żeby sprzedać ten przedmiot",
+  "Faction_Trade_Low_Rank" : "",
   "Faction_Trade_Already_Purchased" : "Przedmiot już został zakupiony",
   "Faction_Trade_Cannot_List_Gifted_Or_Faction" : "Nie możesz wystawić na sprzedaż przedmiotów Frakcji ani prezentów",
   "Faction_Trade_Required_Rank" : "Wymagana ranga: {0}",
@@ -2941,5 +2941,7 @@
   "Bazaar_MainPanel_EquippedPreview_Weapon" : "Broń",
   "Bazaar_MainPanel_EquippedPreview_OffHand" : "Druga ręka",
   "Refer_Friend_Disabled _Title" : "Refer a Friend",
-  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled"
+  "Refer_Friend_Disabled _Body" : "This feature has been temporarily disabled",
+  "ReportType_Localization" : "Localization",
+  "Bazaar_ViewStash" : "View Stash"
 }
