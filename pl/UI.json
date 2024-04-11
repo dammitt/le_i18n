@@ -2959,5 +2959,6 @@
   "Chat_ErrorMessage_NotRecordedInBlockList" : "Użytkownik {0} nie jest zarejestrowany na liście zablokowanych.",
   "Chat_ErrorMessage_AlreadyAddedToBlockList" : "Użytkownik {0} jest już dodany do listy zablokowanych.",
   "Factions_RankTooltipHeaderNew" : "Ranga Kręgu Fortuny",
-  "Factions_RankTooltipBodyNew" : "Zdobywaj przysługę, zabijając wrogów i wykonując zadania. Wydaj przysługę, aby zyskać reputację, która jest twoim doświadczeniem we frakcji."
+  "Factions_RankTooltipBodyNew" : "Zdobywaj przysługę, zabijając wrogów i wykonując zadania. Wydaj przysługę, aby zyskać reputację, która jest twoim doświadczeniem we frakcji.",
+  "Faction_Trade_Too_Much_Gold" : "Sprzedawca ma zbyt dużo złota, aby zakończyć transakcję."
 }

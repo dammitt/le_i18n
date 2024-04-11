@@ -2959,5 +2959,6 @@
   "Chat_ErrorMessage_NotRecordedInBlockList" : "O usuário {0} não está registrado na lista de bloqueios.",
   "Chat_ErrorMessage_AlreadyAddedToBlockList" : "O usuário {0} já foi adicionado à lista de bloqueio.",
   "Factions_RankTooltipHeaderNew" : "Ranque do Círculo da Fortuna",
-  "Factions_RankTooltipBodyNew" : "Ganhe favores matando inimigos e concluindo missões. Gaste Favor para ganhar Reputação, que é sua experiência com uma Facção."
+  "Factions_RankTooltipBodyNew" : "Ganhe favores matando inimigos e concluindo missões. Gaste Favor para ganhar Reputação, que é sua experiência com uma Facção.",
+  "Faction_Trade_Too_Much_Gold" : "O vendedor tem ouro demais para completar a transação."
 }

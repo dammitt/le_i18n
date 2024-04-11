@@ -2959,5 +2959,6 @@
   "Chat_ErrorMessage_NotRecordedInBlockList" : "拦截列表中没有记录用户 {0}。",
   "Chat_ErrorMessage_AlreadyAddedToBlockList" : "用户 {0} 已被添加到阻止列表中。",
   "Factions_RankTooltipHeaderNew" : "命运之环阶级",
-  "Factions_RankTooltipBodyNew" : "通过击杀敌人和完成任务获得好感度。消耗 恩惠 可获得 声望，也就是您在派系中的经验。"
+  "Factions_RankTooltipBodyNew" : "通过击杀敌人和完成任务获得好感度。消耗 恩惠 可获得 声望，也就是您在派系中的经验。",
+  "Faction_Trade_Too_Much_Gold" : "卖家拥有的金币过多，无法完成交易"
 }

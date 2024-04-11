@@ -2959,5 +2959,6 @@
   "Chat_ErrorMessage_NotRecordedInBlockList" : "User {0} is not recorded in the Block list.",
   "Chat_ErrorMessage_AlreadyAddedToBlockList" : "User {0} is already added to the Block list.",
   "Factions_RankTooltipHeaderNew" : "Circle of Fortune Rank",
-  "Factions_RankTooltipBodyNew" : "Gain Favor by slaying enemies and completing quests. Spend Favor to gain Reputation, which is your experience with a Faction."
+  "Factions_RankTooltipBodyNew" : "Gain Favor by slaying enemies and completing quests. Spend Favor to gain Reputation, which is your experience with a Faction.",
+  "Faction_Trade_Too_Much_Gold" : "Seller has too much gold to complete the transaction"
 }

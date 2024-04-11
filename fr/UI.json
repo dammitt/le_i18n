@@ -2959,5 +2959,6 @@
   "Chat_ErrorMessage_NotRecordedInBlockList" : "L'utilisateur {0} n'est pas enregistré dans la liste de blocage.",
   "Chat_ErrorMessage_AlreadyAddedToBlockList" : "L'utilisateur {0} est déjà ajouté à la liste de blocage.",
   "Factions_RankTooltipHeaderNew" : "Rang au sein du Cercle du destin",
-  "Factions_RankTooltipBodyNew" : "Gagnez des faveurs en tuant des ennemis et en accomplissant des quêtes. Dépensez vos faveurs pour gagner de la réputation, qui représente votre expérience au sein d'une faction."
+  "Factions_RankTooltipBodyNew" : "Gagnez des faveurs en tuant des ennemis et en accomplissant des quêtes. Dépensez vos faveurs pour gagner de la réputation, qui représente votre expérience au sein d'une faction.",
+  "Faction_Trade_Too_Much_Gold" : "Le vendeur a trop d'or pour compléter la transaction."
 }

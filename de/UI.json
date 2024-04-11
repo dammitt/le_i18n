@@ -2959,5 +2959,6 @@
   "Chat_ErrorMessage_NotRecordedInBlockList" : "Benutzer {0} ist nicht in der Sperrliste aufgeführt.",
   "Chat_ErrorMessage_AlreadyAddedToBlockList" : "Benutzer {0} ist bereits zur Sperrliste hinzugefügt.",
   "Factions_RankTooltipHeaderNew" : "Rang im Zirkel des Schicksals",
-  "Factions_RankTooltipBodyNew" : "Erhalte Gunst, indem du Feinde tötest und Quests erfüllst. Gib Gunst aus, um Ruf zu erhalten, der deine Erfahrung mit einer Fraktion darstellt."
+  "Factions_RankTooltipBodyNew" : "Erhalte Gunst, indem du Feinde tötest und Quests erfüllst. Gib Gunst aus, um Ruf zu erhalten, der deine Erfahrung mit einer Fraktion darstellt.",
+  "Faction_Trade_Too_Much_Gold" : "Der Verkäufer hat zu viel Gold, um die Transaktion abzuschließen."
 }
